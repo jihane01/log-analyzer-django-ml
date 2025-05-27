@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+*.pyc
+*.sqlite3
+*.joblib  # Exclude ML model files (they're binary and large)
+.DS_Store
+.env
